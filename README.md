@@ -4,6 +4,8 @@
 
 > 👨‍💻 **Geliştirici:** ybalkan  
 > 🎓 **Okul:** 42 Kocaeli  
+> 🖋️ Doğru cevabı bulduğunuzu düşünüyorsanız slack:ybalkan 'a mesaj atmalısınız.
+Unutmayın cevabınızdan emin olmadan yazmayın çünkü tahmin için herkesin 3 hakkı var!
 ---
 
 ## 🚀 Kurulum
@@ -12,8 +14,3 @@
 git clone https://github.com/ybalkan/42_Treasure_Hunt.git
 cd 42_Treasure_Hunt
 make
-
-🖋️
-
-Doğru cevabı bulduğunuzu düşünüyorsanız slack:ybalkan 'a mesaj atmalısınız.
-Unutmayın cevabınızdan emin olmadan yazmayın çünkü tahmin için herkesin 3 hakkı var!
