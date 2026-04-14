@@ -15,5 +15,5 @@ make
 
 ## 🖋️
 
-Doğru cevabı bulduğunuzu düşünüyorsanız slack:ybalkan 'a mesaj atmalısınız.
+'''Doğru cevabı bulduğunuzu düşünüyorsanız slack:ybalkan 'a mesaj atmalısınız.
 Unutmayın cevabınızdan emin olmadan yazmayın çünkü tahmin için herkesin 3 hakkı var!
